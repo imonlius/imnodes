@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cinder>
+<block
+	name="imnodes"
+	id="com.github.imonlius.imnodes"
+	git="git://github.com/imonlius/imnodes.git"
+	author="Nelarius"
+	license="MIT"
+	summary="imnodes made to a CinderBlock"
+	>
+
+	<header>include/imnodes.h</header>
+	<source>src/imnodes.cpp</source>
+
+	<includePath system="true">include</includePath>
+
+</block>
+</cinder>
